@@ -1,7 +1,7 @@
 ---
 title: Claude Code Skills로 Jekyll 블로그 포스팅 자동화하기
 date: 2026-03-23 00:00:00 +0900
-categories: [AI]
+categories: [AI, Claude]
 tags: [claude, ai, claude-code, automation, jekyll]
 ---
 
