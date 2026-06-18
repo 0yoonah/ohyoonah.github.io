@@ -5,7 +5,13 @@ layout: default
 {% include lang.html %}
 
 {% assign all_pinned = site.posts | where: 'pin', 'true' %}
-{% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign all_normal_raw = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
+{% assign all_normal = '' | split: '' %}
+{% for post in all_normal_raw %}
+  {% unless post.categories contains 'CodingTest' %}
+    {% assign all_normal = all_normal | push: post %}
+  {% endunless %}
+{% endfor %}
 
 {% assign posts = '' | split: '' %}
 
