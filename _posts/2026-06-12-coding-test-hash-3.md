@@ -116,8 +116,8 @@ eyewear:  1개 → (1+1) = 2 (blue, 안 입음)
     <span>이전 문제</span>
     <span>← 중복 없는 문자</span>
   </a>
-  <a class="next disabled">
+  <div class="next disabled">
     <span>다음 문제</span>
     <span>—</span>
-  </a>
+  </div>
 </div>

@@ -85,10 +85,10 @@ function solution(arr1, arr2) {
 </div>
 
 <div class="problem-pagination">
-  <a class="disabled">
+  <div class="disabled">
     <span>이전 문제</span>
     <span>—</span>
-  </a>
+  </div>
   <a href="/posts/coding-test-hash-2" class="next">
     <span>다음 문제</span>
     <span>중복 없는 문자 →</span>
