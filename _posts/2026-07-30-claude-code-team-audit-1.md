@@ -10,7 +10,7 @@ tags: [claude, claude-code, ai, team, ci, review]
 | **1편** | 진단 — 문서는 있는데 검사가 없다 ← 현재 글 |
 | [2편](/posts/claude-code-team-audit-2/) | 자동화 순서 — 관찰 → 차단 → 생성 |
 | [3편](/posts/claude-code-team-audit-3/) | 무엇을 어디에 두고 쓰나 |
-| [4편](/posts/claude-code-team-audit-4/) | 개인 작업 — 컨텍스트 예산과 승격 사다리 |
+| [4편](/posts/claude-code-team-audit-4/) | 개인 업무에 붙이는 자동화 |
 
 팀에서 Claude Code를 몇 달 쓰다 보니 걸리는 지점이 생겼다. 코드는 잘 나온다. 그런데 그게 팀 규칙을 지켰는지, 실제로 도는지 검증되지 않은 채로 머지된다. 번역 파일을 한쪽만 채워도 빌드는 통과한다.
 

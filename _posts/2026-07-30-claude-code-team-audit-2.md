@@ -10,7 +10,7 @@ tags: [claude, claude-code, ai, team, automation, ci]
 | [1편](/posts/claude-code-team-audit-1/) | 진단 — 문서는 있는데 검사가 없다 |
 | **2편** | 자동화 순서 — 관찰 → 차단 → 생성 ← 현재 글 |
 | [3편](/posts/claude-code-team-audit-3/) | 무엇을 어디에 두고 쓰나 |
-| [4편](/posts/claude-code-team-audit-4/) | 개인 작업 — 컨텍스트 예산과 승격 사다리 |
+| [4편](/posts/claude-code-team-audit-4/) | 개인 업무에 붙이는 자동화 |
 
 1편에서 확인한 건, 문서는 있는데 PR 시점에 그걸 검사하는 장치가 없다는 것이었다. 이번 편은 그 공백을 어떤 순서로 채울지다.
 
